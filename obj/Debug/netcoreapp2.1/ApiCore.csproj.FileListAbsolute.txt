@@ -1,0 +1,14 @@
+D:\ProjetoCoreApi\ApiCore\bin\Debug\netcoreapp2.1\ApiCore.deps.json
+D:\ProjetoCoreApi\ApiCore\bin\Debug\netcoreapp2.1\ApiCore.runtimeconfig.json
+D:\ProjetoCoreApi\ApiCore\bin\Debug\netcoreapp2.1\ApiCore.runtimeconfig.dev.json
+D:\ProjetoCoreApi\ApiCore\bin\Debug\netcoreapp2.1\ApiCore.dll
+D:\ProjetoCoreApi\ApiCore\bin\Debug\netcoreapp2.1\ApiCore.pdb
+D:\ProjetoCoreApi\ApiCore\obj\Debug\netcoreapp2.1\ApiCore.csprojAssemblyReference.cache
+D:\ProjetoCoreApi\ApiCore\obj\Debug\netcoreapp2.1\ApiCore.csproj.CoreCompileInputs.cache
+D:\ProjetoCoreApi\ApiCore\obj\Debug\netcoreapp2.1\ApiCore.RazorAssemblyInfo.cache
+D:\ProjetoCoreApi\ApiCore\obj\Debug\netcoreapp2.1\ApiCore.RazorAssemblyInfo.cs
+D:\ProjetoCoreApi\ApiCore\obj\Debug\netcoreapp2.1\ApiCore.AssemblyInfoInputs.cache
+D:\ProjetoCoreApi\ApiCore\obj\Debug\netcoreapp2.1\ApiCore.AssemblyInfo.cs
+D:\ProjetoCoreApi\ApiCore\obj\Debug\netcoreapp2.1\ApiCore.RazorTargetAssemblyInfo.cache
+D:\ProjetoCoreApi\ApiCore\obj\Debug\netcoreapp2.1\ApiCore.dll
+D:\ProjetoCoreApi\ApiCore\obj\Debug\netcoreapp2.1\ApiCore.pdb

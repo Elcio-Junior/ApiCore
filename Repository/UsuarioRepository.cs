@@ -24,14 +24,9 @@ namespace ApiCore.Repository
             return _contexto.Usuarios.FirstOrDefault(x => x.UsuarioID == id);
         }
 
-        public IEnumerable<Usuario> GetALL()
-        {
-            return _contexto.Usuarios.ToList();
-        }
-
         public IEnumerable<Usuario> GetAll()
         {
-            throw new System.NotImplementedException();
+            return _contexto.Usuarios.ToList();
         }
 
         public void Remove(long id)
